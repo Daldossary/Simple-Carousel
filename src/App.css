@@ -29,3 +29,28 @@
 .small {
   font-size: 0.75rem;
 }
+
+img {
+  object-fit: contain;
+  height: 65%;
+  width: 65%;
+  padding: 2%;
+  border-radius: 10%;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  font-size: 80px;
+  align-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 50%;
+  background-color:#2f4f4f;
+  color:aliceblue;
+  border: 1px solid #243f3f;
+}
+
+h1 {
+  font: bold 40px Verdana, sans-serif;
+}
